@@ -21,6 +21,6 @@
   ],
   "companies": [
     {"id": "1", "name": "Lokai", "description": "bracelets"},
-    {"id": "2", "name": "Elements", "description", "drink"}
+    {"id": "2", "name": "Elements", "description": "drink"}
   ]
 }
