@@ -5,6 +5,7 @@ const app = express();
 
 // graphQL
 app.use('/graphql', expressGraphQL({
+  // need to specify schema
   graphiql: true
 }));
 
