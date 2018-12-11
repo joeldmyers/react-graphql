@@ -3,12 +3,24 @@
     {
       "id": "23",
       "firstName": "John",
-      "age": 20
+      "age": 20,
+      "companyId": "1"
     },
     {
       "id": "40",
       "firstName": "Alex",
-      "age": 40
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "45",
+      "firstName": "Jake",
+      "age": 40,
+      "companyId": "1"
     }
+  ],
+  "companies": [
+    {"id": "1", "name": "Lokai", "description": "bracelets"},
+    {"id": "2", "name": "Elements", "description", "drink"}
   ]
 }
