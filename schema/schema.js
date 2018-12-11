@@ -11,8 +11,8 @@ const {
 // Hardcoded temp user data
 
 const users = [
-  { id: 23, firstName: 'John', age: 20},
-  { id: 44, firstName: 'Test', age: 40}
+  { id: "23", firstName: 'John', age: 20},
+  { id: "44", firstName: 'Test', age: 40}
 ]
 
 const UserType = new GraphQLObjectType({
